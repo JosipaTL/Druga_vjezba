@@ -37,3 +37,32 @@ Source Control panel > View File History > odaberi stari commit > Restore/Revert
 U Control Panelu možemo vidjeti sve promjene u datotekama
 <h1>16. Na koji način možeš provjeriti status projekta i koje datoteke su izmijenjene?<br></h1>
 U Control Panelu možemo vidjeti sve promjene u datotekama
+
+
+Assets sadrži sve što koristiš u igri ili aplikaciji.
+
+🔹 Što se sve nalazi u Assets?
+
+🎮 Scene (.unity)
+
+🧩 Skripte (.cs)
+
+🎨 Materijali
+
+🖼️ Texture / Sprite
+
+🎧 Audio datoteke
+
+🧱 3D modeli (.fbx, .obj)
+
+⚙️ Prefabs
+
+📦 Shaderi
+
+🧠 ScriptableObjects
+
+🧰 Plugins
+
+🗂️ Vlastiti folderi koje sam kreiraš
+
+Sve što vidiš u Project panelu u Unity Editoru = nalazi se u Assets.
